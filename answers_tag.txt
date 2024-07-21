@@ -1,0 +1,1 @@
+"list tage with ---> git tag // delete local tag -->git tag -d v1.7 // delete remote tag ---> git push origin --delete v1.7" 
