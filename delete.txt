@@ -1,0 +1,1 @@
+"delete local--> git branch -d dev, delete remote--> git push origin --delete dev" 
